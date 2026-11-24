@@ -1,0 +1,15 @@
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\bin\Debug\net10.0\k6versionfruna.exe
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\bin\Debug\net10.0\k6versionfruna.deps.json
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\bin\Debug\net10.0\k6versionfruna.runtimeconfig.json
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\bin\Debug\net10.0\k6versionfruna.dll
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\bin\Debug\net10.0\k6versionfruna.pdb
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versionfruna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versionfruna.AssemblyInfoInputs.cache
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versionfruna.AssemblyInfo.cs
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versionfruna.csproj.CoreCompileInputs.cache
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versionfruna.dll
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\refint\k6versionfruna.dll
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versionfruna.pdb
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versionfruna.genruntimeconfig.cache
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\ref\k6versionfruna.dll
+C:\Users\mmorar\Documents\AFP\documentacion\k6versionfruna\obj\Debug\net10.0\k6versio.D1C3E6DF.Up2Date
